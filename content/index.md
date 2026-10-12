@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Lynn's Space
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I'm Lynn, a former full-stack engineer and current student at Carnegie Mellon University.  
+From Taiwan and now based in Pittsburgh, PA.  
+Enjoy cooking, playing volleyball, and refactoring code.
