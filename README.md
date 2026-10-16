@@ -1,17 +1,35 @@
-# Quartz v5
+# Lynn's Space
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+My personal digital garden, built with [Quartz v5](https://quartz.jzhao.xyz/) and hosted on GitHub Pages.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+🔗 https://moneychien19.github.io/lynn-chien-digital
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Local development
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Requires Node.js `>= 22` (see [`.node-version`](.node-version)).
 
-## Sponsors
+```bash
+npm ci
+npx quartz build --serve
+```
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Then open http://localhost:8080.
+
+Site settings (title, theme, plugins, `baseUrl`) are in [`quartz.config.yaml`](quartz.config.yaml).
+
+## Deployment
+
+Every push to the `v5` branch triggers [`deploy-pages.yaml`](.github/workflows/deploy-pages.yaml), which builds the site and publishes it to GitHub Pages.
+
+## Updating Quartz
+
+This repo is a fork of [jackyzha0/quartz](https://github.com/jackyzha0/quartz), tracked as the `upstream` remote:
+
+```bash
+git fetch upstream
+git merge upstream/v5
+```
+
+## License
+
+Quartz is licensed under the [MIT License](LICENSE.txt).
