@@ -2,6 +2,8 @@
 title: 'Carving at the Joints: Deciding Where to Cut in a Messy Refactor'
 ---
 
+> 中文版：[[zh/engineering/carving-at-the-joints|沿著關節下刀：重構中如何找到恰到好處的抽象]]
+
 This post is a refactoring exercise. The scenario is fictional, but the code problems, the wrong turns along the way, and the final trade-offs all come from a real refactor.
 
 ## The Scenario
