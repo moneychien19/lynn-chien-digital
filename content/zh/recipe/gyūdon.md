@@ -2,6 +2,8 @@
 title: 牛丼
 ---
 
+> English version: [[recipe/gyūdon|Gyūdon (Beef Bowl)]]
+
 ## 備料
 
 - 薄切牛肉：300-350g

@@ -2,6 +2,8 @@
 title: 親子丼
 ---
 
+> English version: [[recipe/oyakodon|Oyakodon (Chicken and Egg Bowl)]]
+
 ## 備料
 
 - 去骨雞腿肉：300-350 g

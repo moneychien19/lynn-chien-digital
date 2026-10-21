@@ -2,6 +2,8 @@
 title: 牛肉炒飯
 ---
 
+> English version: [[recipe/gû-bah-tshá-pn̄g|Gû-bah-tshá-pn̄g (Beef Fried Rice)]]
+
 ## 備料
 
 - 牛肉塊：300-350g

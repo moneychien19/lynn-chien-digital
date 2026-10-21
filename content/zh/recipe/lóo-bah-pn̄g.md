@@ -2,6 +2,8 @@
 title: 滷肉飯
 ---
 
+> English version: [[recipe/lóo-bah-pn̄g|Lóo-bah-pn̄g (Braised Pork Rice)]]
+
 ## 備料
 
 - 豬五花：500g

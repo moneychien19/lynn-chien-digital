@@ -2,6 +2,8 @@
 title: 蛋包飯
 ---
 
+> English version: [[recipe/omurice|Omurice]]
+
 ## 備料
 
 - 火腿 / 雞肉塊 / 香腸 / 牛肉塊：100-150 g

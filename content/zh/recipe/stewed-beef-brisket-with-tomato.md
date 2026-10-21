@@ -2,6 +2,8 @@
 title: 蕃茄牛腩飯
 ---
 
+> English version: [[recipe/stewed-beef-brisket-with-tomato|Stewed Beef Brisket with Tomato]]
+
 ## 備料
 
 - 紅蘿蔔：1 根
