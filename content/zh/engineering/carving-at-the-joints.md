@@ -1,5 +1,5 @@
 ---
-title: 沿著關節下刀：重構中如何找到恰到好處的抽象
+title: 沿著關節下刀：如何在重構中找到恰到好處的抽象
 ---
 
 > English version: [[engineering/carving-at-the-joints|Carving at the Joints: Deciding Where to Cut in a Messy Refactor]]

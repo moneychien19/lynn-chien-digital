@@ -215,9 +215,10 @@ plugins:
       position: afterBody
       priority: 10
   - source: "@quartz-community/footer"
-    enabled: false
+    enabled: true
     options:
-      links: {}
+      links:
+        GitHub: https://github.com/moneychien19/lynn-chien-digital
     layout:
       position: footer
       priority: 50
