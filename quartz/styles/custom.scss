@@ -7,3 +7,11 @@
 code.mermaid foreignObject p {
   text-wrap: nowrap;
 }
+
+// Post titles in the explorer often wrap to several lines. Tighten the lines within a
+// title and add space between titles, so each post reads as one block.
+.explorer-content ul li > a.nav-file-title {
+  display: block;
+  line-height: 1.35;
+  padding: 0.3rem 0;
+}
